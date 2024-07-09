@@ -1,10 +1,10 @@
-# Real-Estate-Php
+# H-finder-Php
 
 
 
-Realestate Management system
+H-finder system
 
-This is a ready to use web application for managing Real Estate System. the application is built on PHP and Mysql, its interface is very user friendly.
+This is a ready to use web application for managing ouse System. the application is built on PHP and Mysql, its interface is very user friendly.
 
 Description
 
@@ -27,10 +27,3 @@ It can easily be used to manage two different group of users with different perm
 Import the Database in Your Server like Xampp
 
 Database Name -: real_estate
-
-
-# Access Admin page 
-http://127.0.0.1/Real-estate/admin/index.php
-
-# Access Users page 
-http://127.0.0.1/Real-estate/index.php
